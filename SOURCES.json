@@ -2,7 +2,7 @@
   "concept_by": "Samuel Acuña",
   "practice": "Beodonto Dental Care",
   "official_website": "https://beodonto.com/",
-  "reviewed": "2026-10-29",
+  "reviewed": "2026-10-30",
   "images": [
     {
       "file": "assets/hero.webp",
@@ -19,5 +19,44 @@
       "original_caption": ""
     }
   ],
-  "note": "Public images used for an independent commercial demonstration. Image ownership remains with the original rights holders. No clinical outcome is promised."
+  "note": "Public images used for an independent commercial demonstration. Image ownership remains with the original rights holders. No clinical outcome is promised.",
+  "medical_revision": [
+    {
+      "file": "assets/medical-clinical.webp",
+      "source_url": "https://beodonto.com/wp-content/uploads/2021/09/DRA-NOHELIA-scaled.jpg",
+      "source_page": "https://beodonto.com/proposito/",
+      "role": "clinical"
+    },
+    {
+      "file": "assets/medical-clinic.webp",
+      "source_url": "https://beodonto.com/wp-content/uploads/2021/11/2FINAL-scaled.jpg",
+      "source_page": "https://beodonto.com/proposito/",
+      "role": "clinic"
+    },
+    {
+      "file": "assets/medical-team1.webp",
+      "source_url": "https://beodonto.com/wp-content/uploads/2021/09/fila-1-columna-1-scaled.jpg",
+      "source_page": "https://beodonto.com/proposito/",
+      "role": "team1"
+    },
+    {
+      "file": "assets/medical-team2.webp",
+      "source_url": "https://beodonto.com/wp-content/uploads/2021/09/fila-1-columna-2-1-scaled.jpg",
+      "source_page": "https://beodonto.com/proposito/",
+      "role": "team2"
+    },
+    {
+      "file": "assets/medical-team3.webp",
+      "source_url": "https://beodonto.com/wp-content/uploads/2021/09/fila-1-columna-3-1-scaled.jpg",
+      "source_page": "https://beodonto.com/proposito/",
+      "role": "team3"
+    },
+    {
+      "file": "assets/medical-team4.webp",
+      "source_url": "https://beodonto.com/wp-content/uploads/2021/09/fila-1-columna-4-1-scaled.jpg",
+      "source_page": "https://beodonto.com/proposito/",
+      "role": "team4"
+    }
+  ],
+  "design_status": "Medical identity revision following user feedback"
 }
