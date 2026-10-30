@@ -1,0 +1,23 @@
+{
+  "concept_by": "Samuel Acuña",
+  "practice": "Beodonto Dental Care",
+  "official_website": "https://beodonto.com/",
+  "reviewed": "2026-10-29",
+  "images": [
+    {
+      "file": "assets/hero.webp",
+      "source_url": "https://topdentalhealth.net/wp-content/uploads/2024/01/Dra.-Nohelia-Marquez2.jpg",
+      "source_page": "https://topdentalhealth.net/nosotros/",
+      "role": "hero",
+      "original_caption": ""
+    },
+    {
+      "file": "assets/hero.webp",
+      "source_url": "https://topdentalhealth.net/wp-content/uploads/2024/01/Dra.-Nohelia-Marquez2.jpg",
+      "source_page": "https://topdentalhealth.net/nosotros/",
+      "role": "portrait",
+      "original_caption": ""
+    }
+  ],
+  "note": "Public images used for an independent commercial demonstration. Image ownership remains with the original rights holders. No clinical outcome is promised."
+}
